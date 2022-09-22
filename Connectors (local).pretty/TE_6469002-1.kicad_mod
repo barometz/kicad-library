@@ -144,7 +144,7 @@
   (pad "HG8" thru_hole circle (at -6.25 8.25) (size 1 1) (drill 0.61) (layers *.Cu *.Mask) (tstamp 82cd3d33-df50-46b5-bebd-dd48a6714e30))
   (pad "HG9" thru_hole circle (at -8.75 8.25) (size 1 1) (drill 0.61) (layers *.Cu *.Mask) (tstamp 0e775992-85ef-4c71-a735-b356f6b7f3b2))
   (pad "HG10" thru_hole circle (at -11.25 8.25) (size 1 1) (drill 0.61) (layers *.Cu *.Mask) (tstamp dec974a2-7211-4a3b-b35a-c9e06af33d4d))
-  (model "/home/dominic/Elektra/Libraries/Connectors (local).pretty/6469002-1.step"
+  (model "${KIPRJMOD}/Library/Connectors (local).pretty/6469002-1.step"
     (offset (xyz -0.45 0.75 13.4))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
